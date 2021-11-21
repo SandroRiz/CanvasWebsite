@@ -1,0 +1,12 @@
+/* ----------------------------------------------------------------
+	Custom CSS
+
+	Add all your Custom Styled CSS here for New Styles or
+	Overwriting Default Theme Styles for Better Handling Updates
+-----------------------------------------------------------------*/
+
+
+.darkenHeader
+{
+	background-color: rgba(0, 0, 0, 0.5);
+}
